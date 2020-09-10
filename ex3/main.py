@@ -19,10 +19,9 @@ def main():
 
     clf = NaiveBayesClassifier()
     clf.fit(X, y)
-    for k, v in test_case.items():
-        print(f'{k}: {v}')
-    print()
     print('resultado: ', 'Jogar' if clf.predict(test_case) else 'Não Jogar')
+    print()
+    print(clf.get_probs_str(test_case))
 
 
 if __name__ == "__main__":
