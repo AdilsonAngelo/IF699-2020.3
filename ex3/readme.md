@@ -18,6 +18,6 @@ P(True) * P(Chuva|True) * P(Quente|True) * P(Normal|True) * P(Forte|True)
 ### Python version: 3.8
 
 ```sh
-$ pip install -r requirements
+$ pip install -r requirements.txt
 $ python main.py
 ```
