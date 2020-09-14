@@ -1,0 +1,11 @@
+Dia,Tempo,Temperatura,Humidade,Vento,Jogar
+1,Sol,Quente,Alta,Fraco,False
+2,Sol,Quente,Alta,Forte,False
+3,Coberto,Quente,Alta,Fraco,True
+4,Chuva,Normal,Alta,Fraco,True
+5,Chuva,Frio,Normal,Fraco,False
+6,Chuva,Frio,Normal,Forte,False
+7,Coberto,Frio,Normal,Forte,True
+8,Sol,Normal,Alta,Fraco,False
+9,Sol,Frio,Normal,Fraco,True
+10,Chuva,Normal,Normal,Fraco,True
